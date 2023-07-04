@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/latam.github.io/react-modulo3-clase1/static/css/main.7cda0caf.css",
-    "main.js": "/latam.github.io/react-modulo3-clase1/static/js/main.7beba08b.js",
+    "main.js": "/latam.github.io/react-modulo3-clase1/static/js/main.8ed2e03c.js",
     "index.html": "/latam.github.io/react-modulo3-clase1/index.html",
     "main.7cda0caf.css.map": "/latam.github.io/react-modulo3-clase1/static/css/main.7cda0caf.css.map",
-    "main.7beba08b.js.map": "/latam.github.io/react-modulo3-clase1/static/js/main.7beba08b.js.map"
+    "main.8ed2e03c.js.map": "/latam.github.io/react-modulo3-clase1/static/js/main.8ed2e03c.js.map"
   },
   "entrypoints": [
     "static/css/main.7cda0caf.css",
-    "static/js/main.7beba08b.js"
+    "static/js/main.8ed2e03c.js"
   ]
 }
